@@ -1,0 +1,4 @@
+build/*
+dist/*
+correlation.egg-info/*
+conda_recipes/*
